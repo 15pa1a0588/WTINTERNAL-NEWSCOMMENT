@@ -1,0 +1,18 @@
+html,body,h1,h2,h3{
+	margin:0;
+	padding:0;
+	font-size:20px;
+}
+body{
+    text-align:center;
+    background-image:url("login.jpg");
+    opacity:2;
+    background-position:center;
+    background-repeat:norepeat;
+    background-size:cover;
+    margin:200px 30px;
+    
+}
+form{
+	margin:10px 30px;
+}
